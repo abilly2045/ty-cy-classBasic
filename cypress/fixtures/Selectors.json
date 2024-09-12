@@ -1,0 +1,19 @@
+{
+  "HomeBtn": "[ng-click='home()']",
+  "AddCustomerBtn": "[ng-class='btnClass1']",
+  "OpenAccountBtn": "[ng-class='btnClass2']",
+  "CustomerListBtn": "[ng-class='btnClass3']",
+  "fNameField": "[ng-model='fName']",
+  "lNamefield": "[ng-model='lName']",
+  "PCodefield": "[ng-model='postCd']",
+  "fName": "Ability",
+  "lName": "Billintin",
+  "PCode": "M20 2SD",
+  "CreateBtn": "[class='btn btn-default']",
+  "CustomerList": "[id='userSelect']",
+  "CurrencyList": "[id='currency']",
+  "currency": "Dollar",
+  "ProceedBtn": "[type='submit']",
+  "DeleteBtn": "[ng-click='deleteCust(cust)']",
+  "SearchField": "[ng-model='searchCustomer']"
+}

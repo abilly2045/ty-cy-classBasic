@@ -1,0 +1,8 @@
+node-modules/
+cypress/screenshots/
+cypress/videos/
+.vscode/
+.DS_Store
+dist/
+.idea/
+node_modules

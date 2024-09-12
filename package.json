@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.1.2",
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "cypress": "^13.14.1",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.3"
+  }
+}
